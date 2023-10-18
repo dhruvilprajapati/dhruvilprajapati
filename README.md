@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://dhruvil-personal-portfolio.vercel.app/](https://dhruvil-personal-portfolio.vercel.app/)
 
-- 📫 How to reach me **prajapatidhruvil.a@gmail.com**
+- 📫 How to reach me : **prajapatidhruvil.a@gmail.com**
 
-- ⚡ Fun fact **I once resolved a particularly stubborn bug by taking a long walk in the park. Nature has a way of inspiring creative solutions!**
+- ⚡ Fun fact : **I once resolved a particularly stubborn bug by taking a long walk in the park. Nature has a way of inspiring creative solutions!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
