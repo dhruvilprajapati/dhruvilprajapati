@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruvil Prajapati</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **Mern Stack**.
 
 - 👨‍💻 All of my projects are available at [https://dhruvil-personal-portfolio.vercel.app/](https://dhruvil-personal-portfolio.vercel.app/)
 
