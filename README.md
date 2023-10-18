@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prajapati_dp_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prajapati_dp_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhruvilprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvilprajapati" height="30" width="40" /></a>
-<a href="https://fb.com/prajapatidhruvil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prajapatidhruvil" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhruvil-prajapati-98b803214/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvilprajapati" height="30" width="40" /></a>
+<a href="https://www.facebook.com/people/Prajapati-Dhruvil/pfbid02tAhGSjRT7knT9wgfDhGgYzFzQ596pQxzeqGoTkmFf1SYvP2dAP56AZR4mLVtBp6Vl/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prajapatidhruvil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
