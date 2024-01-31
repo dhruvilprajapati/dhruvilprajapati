@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**.
 
-- 👨‍💻 All of my projects are available at [https://dhruvil-personal-portfolio.vercel.app/](https://dhruvil-personal-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://dhruvil-prajapati.vercel.app/)
 
 - 📫 How to reach me : **prajapatidhruvil.a@gmail.com**
 
